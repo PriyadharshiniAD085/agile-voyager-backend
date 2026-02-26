@@ -2,4 +2,5 @@ fastapi
 uvicorn
 python-dotenv
 pydantic
+requests
 email-validator
